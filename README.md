@@ -1,41 +1,61 @@
-<!-- Banner Image -->
-![Banner](https://your-image-url/banner.png)
+<p align="center">
+  <img src="https://your-hosted-url.com/3d-banner.png" width="100%" alt="3D Data Science Banner"/>
+</p>
 
 <div align="center">
-  <img src="https://your-image-url/profile.jpg" width="150" style="border-radius: 50%;" />
-  <h1>Hi, I'm Ojas 👋</h1>
-  <h3>Data Science Enthusiast | ML Learner | Python Developer</h3>
+  <img src="https://your-hosted-url.com/3d-profile.png" width="140px" style="border-radius: 50%;" alt="Profile Image"/>
+  
+  <h1 align="center">Hi 👋, I'm Ojas Lanjekar</h1>
+  <h3 align="center">🚀 Data Scientist | 🤖 ML & NLP Enthusiast | 📊 Power BI Developer | 🛠️ Streamlit App Builder</h3>
 </div>
 
 ---
 
-🎯 I'm passionate about solving real-world problems using data.  
-With strong skills in **Python**, **Machine Learning**, **Data Science**, **SQL**, and **Power BI**, I enjoy building impactful solutions and dashboards that bring insights to life.
+### 👨‍💻 About Me
+
+- 📚 Pursuing **B.Sc in Data Science** from Savitribai Phule Pune University  
+- 🔍 Passionate about analyzing real-world data and building scalable ML/NLP solutions  
+- 🧠 Working on **NLP tasks** like:
+  - 💬 **Sentiment Analysis** using VADER
+  - 🏷️ **Named Entity Recognition (NER)** with Transformers  
+- 📈 Creating interactive dashboards and apps using **Streamlit + Hugging Face Spaces**
 
 ---
 
-## 🚀 Skills
+### 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://img.icons8.com/3d-fluency/94/sql.png" width="45" title="SQL"/>
+  <img src="https://img.icons8.com/3d-fluency/94/artificial-intelligence.png" width="45" title="Machine Learning"/>
+  <img src="https://img.icons8.com/3d-fluency/94/combo-chart.png" width="45" title="Power BI"/>
+  <img src="https://img.icons8.com/3d-fluency/94/code-file.png" width="45" title="Streamlit"/>
+  <img src="https://img.icons8.com/3d-fluency/94/text.png" width="45" title="NLP"/>
+  <img src="https://img.icons8.com/3d-fluency/94/cloud.png" width="45" title="Hugging Face Spaces"/>
 </p>
 
 ---
 
-## 📫 Let's Connect!
+### 🚀 Projects
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ojas_Lanjekar-blue?logo=linkedin)](https://www.linkedin.com/in/ojas-lanjekar)
-- 📧 Email: [ojaslanjekar750@gmail.com](mailto:ojaslanjekar750@gmail.com)
+#### 🌟 NLP-Based Projects
+- **SentimentSense** → Real-time sentiment classification (positive/neutral/negative) using VADER  
+- **Smart Resume Analyzer** → Entity extraction with Transformers for resume analysis  
+
+#### 📈 Streamlit + Hugging Face Projects
+- **Vegetable Price Forecasting** → ARIMA-based forecasting for market insights  
+- **Resume Matching App** → NLP + Scoring + Recommendations  
 
 ---
 
-_“Turning data into action.”_
+### 📫 Let's Connect
+
+- 💼 **LinkedIn**: [linkedin.com/in/ojas-lanjekar](https://www.linkedin.com/in/ojas-lanjekar)
+- 📧 **Email**: [ojaslanjekar750@gmail.com](mailto:ojaslanjekar750@gmail.com)
 
 ---
 
-<!-- Optional: GitHub Stats -->
+### ⚡ GitHub Stats _(Optional)_
+```markdown
+<!-- Replace "your-github-username" with your actual GitHub username -->
 ![Ojas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
