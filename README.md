@@ -1,95 +1,246 @@
-![](assets/Bottom_up.svg)
+<h1 align="center">🚀 Ojas Lanjekar</h1>
 
-![1](https://user-images.githubusercontent.com/113240252/233840016-9f297101-662f-4617-a0eb-61dc3f7c88cd.svg)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active-brightgreen.svg">
-  <img src="https://img.shields.io/badge/python-3.11-blue.svg">
-</p>
-
-![](./src/header_.png)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1200&lines=Hi+there+👋,+I+am+Ojas+Lanjekar;+Welcome+to+My+GitHub+Profile!+🚀;B.Sc+Data+Science+Student+🧠;ML+%7C+NLP+%7C+Computer+Vision+Enthusiast+🤖;Streamlit+%7C+Django+%7C+Flask+Developer+🌐;Always+Learning+New+Things+💡)](https://git.io/typing-svg)
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
----
-
-### 🧠 About Me
-
-Hey! I'm **Ojas Lanjekar**, a dedicated and curious B.Sc. Data Science student.  
-I'm passionate about **Machine Learning**, **Natural Language Processing**, and building intelligent applications using **Python**.
-
-🔹 I develop **AI-driven web apps** using **Streamlit**, **Django**, and **Flask**  
-🔹 I love working on **real-world projects** — from resume analyzers to sentiment engines  
-🔹 My strengths lie in **clean code**, **creative problem-solving**, and **bringing ideas to life with tech**  
-🔹 Actively exploring areas like **Computer Vision**, **Speech Recognition**, and **Business Intelligence**
-
-Let’s connect and innovate something impactful! 💬
-
----
-
-### 📫 Connect With Me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ojas-lanjekar" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="50" width="50" />
-  </a>
-  <a href="mailto:ojaslanjekar750@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="50" width="50" />
-  </a>
-</p>
-
----
-
-### 💻 Languages & Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Google_Colaboratory_SVG_Logo.svg" width="40" height="40"/>
-  </a>
-  <a href="https://streamlit.io/" target="_blank">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="40" height="40"/>
-  </a>
-  
-</p>
-
----
-
-### 📊 GitHub Stats
+<h3 align="center">
+Agentic AI Engineer | GenAI Developer | Cloud & DevOps Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojaslan&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ojaslan&show_icons=true&locale=en" alt="GitHub Stats" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&lines=Agentic+AI+Developer;RAG+Systems+Builder;LangChain+%7C+LangGraph;AWS+Cloud+Engineer;Docker+%7C+Kubernetes+%7C+DevOps;Building+Production+Ready+AI+Applications" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic-AI-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GenAI-Developer-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DevOps-Engineer-red?style=for-the-badge">
 </p>
 
 ---
 
-### 🙏 Thanks for visiting my profile!
+# 🧑‍💻 About Me
+
+```yaml
+Name: Ojas Lanjekar
+
+Education:
+  - B.Sc Data Science
+
+Current Focus:
+  - Agentic AI
+  - Generative AI
+  - Retrieval Augmented Generation
+  - Cloud Native Applications
+  - DevOps Engineering
+
+Passion:
+  Building intelligent AI systems that can reason,
+  retrieve knowledge, automate workflows and scale on cloud.
+```
 
 ---
+
+# 🚀 Agentic AI & GenAI Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
+
+<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/brand/wordmark.png" height="60"/>
+
+</p>
+
+### Expertise
+
+✅ Agentic AI Systems
+
+✅ Multi-Agent Workflows
+
+✅ LangChain
+
+✅ LangGraph
+
+✅ RAG Pipelines
+
+✅ Vector Databases
+
+✅ Prompt Engineering
+
+✅ AI Chatbots
+
+✅ Research Agents
+
+✅ LLM Applications
+
+✅ Semantic Search
+
+✅ PDF Question Answering
+
+---
+
+# ☁️ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,terraform,jenkins,githubactions" />
+
+</p>
+
+### Cloud Skills
+
+- AWS EC2
+- AWS S3
+- IAM
+- VPC
+- Load Balancer
+- Auto Scaling
+- Docker
+- Kubernetes
+- Linux
+- Terraform
+- Nginx
+- CI/CD Pipelines
+
+---
+
+# 🏗️ Architecture I Build
+
+```text
+              User
+                │
+                ▼
+       Streamlit / React
+                │
+                ▼
+           API Layer
+                │
+                ▼
+      ┌─────────────────┐
+      │ Agentic AI Core │
+      └─────────────────┘
+                │
+    ┌───────────┼───────────┐
+    ▼           ▼           ▼
+
+ Planner     RAG Agent   Research Agent
+
+    ▼           ▼           ▼
+
+ Vector DB   LLM APIs    Knowledge Base
+
+                │
+                ▼
+
+           AWS Cloud
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,streamlit,aws,docker,kubernetes,linux,mysql,mongodb,git,github,vscode" />
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 🤖 Agentic Research Assistant
+
+- Multi-Agent Architecture
+- Research Paper Analysis
+- Citation Generation
+- Knowledge Retrieval
+- Autonomous Reasoning
+
+---
+
+## 📚 RAG Question Answering System
+
+- PDF Ingestion
+- Embeddings
+- Vector Search
+- Semantic Retrieval
+- Context Aware Responses
+
+---
+
+## ☁️ Cloud Native AI Platform
+
+- AWS Deployment
+- Docker Containers
+- Kubernetes Orchestration
+- Load Balancing
+- Monitoring & Scaling
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojaslan&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojaslan&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ojaslan&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ojaslan&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ojas-lanjekar">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="mailto:ojaslanjekar750@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="50"/>
+</a>
+
+</p>
+
+---
+
+# 🎯 Current Goals
+
+🚀 Building Agentic AI Applications
+
+🚀 Mastering Kubernetes & DevOps
+
+🚀 Cloud Native AI Systems
+
+🚀 Advanced RAG Architectures
+
+🚀 Production-Grade GenAI Products
+
+---
+
+<p align="center">
+
+⭐ If you like my projects, feel free to star them and connect with me.
+
+</p>
