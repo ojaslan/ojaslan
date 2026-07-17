@@ -81,7 +81,7 @@ Passion:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,terraform,jenkins,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,terraform,githubactions" />
 
 </p>
 
@@ -139,7 +139,7 @@ Passion:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,streamlit,aws,docker,kubernetes,linux,mysql,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,streamlit,aws,docker,kubernetes,linux,mysql,mongodb,git,github,vscode" />
 
 </p>
 
